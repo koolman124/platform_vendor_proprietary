@@ -360,6 +360,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/moto/shamu/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/moto/shamu/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
+    vendor/moto/shamu/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/moto/shamu/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/moto/shamu/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/moto/shamu/proprietary/vendor/lib/hw/sensors.msm8084.so:system/vendor/lib/hw/sensors.msm8084.so \
